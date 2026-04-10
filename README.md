@@ -90,6 +90,16 @@ Validaciones de entrada
 Organización del código en métodos
 Pensamiento lógico para sistemas reales
 
+# Equipo
+
+Miussete	Alfaro
+Fernando 	Cuevas
+Matias	Flores
+Monserrat 	Miranda
+Zuelem	Chañillao
+Alonso	Morales
+
+
 🚀 Posibles mejoras futuras
 Implementar Programación Orientada a Objetos (POO)
 Crear clase Animal
